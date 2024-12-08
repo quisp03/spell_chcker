@@ -14,7 +14,7 @@ python -m tkinter
 
 ## 3. Process
 1. Python script file and `dictionary.txt` must be in the same dirrectory
-2. Open up the terminal and run the program `python spell_checker.php`
+2. Open up the terminal and run the program `python spell_checker.py`
 3. Enter words into input box and hit check
 4. Program displays 10 suggestions based on algorithm alignment sequence and dictionary txt file
 ---
